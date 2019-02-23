@@ -26,3 +26,47 @@
 
 1550158172 c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\temashistoria.h
 
+1550943991 source:c:\users\jonathan lópez\documents\github\misegundaencarta\main.cpp
+	<iostream>
+	"Cursos.h"
+
+1550156608 c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.h
+
+1550943478 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"TemasMatematicas.h"
+
+1550943478 c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.h
+
+1550943771 source:c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.cpp
+	<iostream>
+	"Cursos.h"
+	"TemasMatematicas.h"
+	"TemasHistoria.h"
+
+1550943769 c:\users\jonathan lópez\documents\github\misegundaencarta\temashistoria.h
+
+1550943768 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temashistoria.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"TemasHistoria.h"
+
+1550944130 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasciencias.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"TemasCiencias.h"
+
+1550944656 c:\users\jonathan lópez\documents\github\misegundaencarta\temasciencias.h
+
+1550944242 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasingles.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"TemasIngles.h"
+
+1550944243 c:\users\jonathan lópez\documents\github\misegundaencarta\temasingles.h
+

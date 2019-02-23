@@ -27,11 +27,7 @@ void Conjuntos () {
     flujoEntrada.close();
 }
 
-void Operaciones_Basicas() {
-
-}
-
-void Funciones () {
+void Aritmetica() {
 
 }
 
