@@ -34,6 +34,12 @@
 		</Compiler>
 		<Unit filename="Cursos.cpp" />
 		<Unit filename="Cursos.h" />
+		<Unit filename="TemasCiencias.cpp" />
+		<Unit filename="TemasCiencias.h" />
+		<Unit filename="TemasHistoria.cpp" />
+		<Unit filename="TemasHistoria.h" />
+		<Unit filename="TemasIngles.cpp" />
+		<Unit filename="TemasIngles.h" />
 		<Unit filename="TemasMatematicas.cpp" />
 		<Unit filename="TemasMatematicas.h" />
 		<Unit filename="main.cpp" />
