@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1550159055 source:c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\cursos.cpp
+	<iostream>
+	"Cursos.h"
+	"TemasMatematicas.h"
+	"TemasHistoria.h"
+
+1550156607 c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\cursos.h
+
+1550158172 source:c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\main.cpp
+	<iostream>
+	"Cursos.h"
+
+1550159280 source:c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\temasmatematicas.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"TemasMatematicas.h"
+
+1550158171 c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\temasmatematicas.h
+
+1550157953 source:c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\temashistoria.cpp
+	<iostream>
+	<fstream>
+	"TemasHistoria.h"
+
+1550158172 c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\temashistoria.h
+

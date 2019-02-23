@@ -1,0 +1,2 @@
+Los conjuntos.
+Son agrupaciones de elementos.
