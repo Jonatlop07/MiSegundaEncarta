@@ -42,6 +42,8 @@
 		<Unit filename="TemasIngles.h" />
 		<Unit filename="TemasMatematicas.cpp" />
 		<Unit filename="TemasMatematicas.h" />
+		<Unit filename="Utilidades.cpp" />
+		<Unit filename="Utilidades.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
