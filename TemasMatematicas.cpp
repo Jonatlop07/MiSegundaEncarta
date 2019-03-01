@@ -1,37 +1,27 @@
-#include <iostream>
-#include <fstream>
-#include <string.h>
 #include "TemasMatematicas.h"
-
-using namespace std;
-
-string leer_palabra (istream& flujoEntrada) {
-    string p;
-    flujoEntrada >> p;
-    return p;
-}
+#include "Utilidades.h"
 
 void Conjuntos () {
-    string parrafo = "";
-
+    string palabra;
     ifstream flujoEntrada("ArchivosMatematicas/teoriaConjuntos.txt");
-
-
-    while ( !flujoEntrada.eof() ) {
-
-        parrafo += leer_palabra(flujoEntrada);
-        parrafo += ' ';
-    }
-    cout << parrafo << " \n";
+    escribirLeccion( flujoEntrada );
 
     flujoEntrada.close();
 }
 
 void Aritmetica() {
+    string palabra;
+    ifstream flujoEntrada("ArchivosMatematicas/teoriaAritmetica.txt");
+    escribirLeccion( flujoEntrada );
 
+    flujoEntrada.close();
 }
 
 void Geometria () {
+    string palabra;
+    ifstream flujoEntrada( "ArchivosMatematicas/teoriaGeometria.txt" );
+    escribirLeccion( flujoEntrada );
 
+    flujoEntrada.close();
 }
 

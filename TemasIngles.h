@@ -1,6 +1,11 @@
 #ifndef TEMASINGLES.H
 #define TEMASINGLES.H
 
+#include <iostream>
+#include <string.h>
+#include <fstream>
+using namespace std;
+
 void Vocabulario();
 void Expresiones_Basicas();
 void Pronombres_Verbos();

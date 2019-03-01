@@ -1,7 +1,5 @@
-#include <iostream>
-#include <fstream>
-#include <string.h>
 #include "TemasIngles.h"
+#include "Utilidades.h"
 
 void Vocabulario(){
 

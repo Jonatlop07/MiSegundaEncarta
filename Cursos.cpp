@@ -1,14 +1,8 @@
-#include <iostream>
-
-using std::cout;
-using std::cin;
-
 #include "Cursos.h"
 #include "TemasMatematicas.h"
 #include "TemasHistoria.h"
 #include "TemasCiencias.h"
 #include "TemasIngles.h"
-
 
 int elegirCurso () {
     int opcion = 0;
@@ -35,12 +29,12 @@ void cursoMatematicas() {
     bool valor_incorrecto = false;
 
     cout << "Elige un tema: \n\n";
-    cout << "1. Conjuntos. \n2. Operaciones basicas. \n3. Funciones. \n4. Geometria.\n\n";
+    cout << "1. Conjuntos. \n2. Aritmetica. \n3. Geometria.\n\n";
     cout << "Por favor, elige el que sea mas de tu interes: ";
 
     do {
        cin >> opcion;
-       valor_incorrecto = opcion < 1 || opcion > 4;
+       valor_incorrecto = opcion < 1 || opcion > 3;
 
        if ( valor_incorrecto ) {
             cout << "Valor incorrecto. Intentalo de nuevo: ";

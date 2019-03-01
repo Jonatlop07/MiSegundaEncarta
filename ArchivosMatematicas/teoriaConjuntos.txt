@@ -1,2 +1,3 @@
-Los conjuntos.
-Son agrupaciones de elementos.
+| | | Conjuntos /n
+Cuando utilizamos la palabra conjunto, hacemos referencia a una agrupacion de objetos de cualquier tipo. /n
+Cuando un objeto hace parte de un conjunto, decimos que "pertenece", y en caso contrario "no pertenece". /n

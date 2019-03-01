@@ -1,9 +1,5 @@
-#include <iostream>
-#include <fstream>
-#include <string.h>
 #include "TemasCiencias.h"
-
-using namespace std;
+#include "Utilidades.h"
 
 void Universo() {
 }
