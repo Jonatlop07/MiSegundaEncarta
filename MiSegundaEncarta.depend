@@ -34,14 +34,15 @@
 
 1551473891 c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.h
 
-1551473819 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.cpp
+1551840995 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.cpp
 	"TemasMatematicas.h"
 	"Utilidades.h"
 
-1551473945 c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.h
+1551837935 c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.h
 	<iostream>
 	<string.h>
 	<fstream>
+	<cstdlib>
 
 1551473893 source:c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.cpp
 	"Cursos.h"
@@ -55,11 +56,11 @@
 	<string.h>
 	<fstream>
 
-1551473855 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temashistoria.cpp
+1551837651 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temashistoria.cpp
 	"TemasHistoria.h"
 	"Utilidades.h"
 
-1551473855 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasciencias.cpp
+1551837651 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasciencias.cpp
 	"TemasCiencias.h"
 	"Utilidades.h"
 
@@ -68,7 +69,7 @@
 	<string.h>
 	<fstream>
 
-1551473856 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasingles.cpp
+1551837651 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasingles.cpp
 	"TemasIngles.h"
 	"Utilidades.h"
 
@@ -77,11 +78,11 @@
 	<string.h>
 	<fstream>
 
-1551473633 c:\users\jonathan lópez\documents\github\misegundaencarta\utilidades.h
+1551841072 c:\users\jonathan lópez\documents\github\misegundaencarta\utilidades.h
 	<iostream>
 	<string.h>
 	<fstream>
 
-1551472818 source:c:\users\jonathan lópez\documents\github\misegundaencarta\utilidades.cpp
+1551841072 source:c:\users\jonathan lópez\documents\github\misegundaencarta\utilidades.cpp
 	"Utilidades.h"
 
