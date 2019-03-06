@@ -7,6 +7,21 @@ void Prehistoria() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
+
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 
 }
 
@@ -16,7 +31,21 @@ void Edad_Antigua() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 
 void Edad_Media() {
@@ -25,7 +54,21 @@ void Edad_Media() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 
 void Renacimiento() {
@@ -34,7 +77,21 @@ void Renacimiento() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 
 void Edad_Moderna() {
@@ -43,7 +100,21 @@ void Edad_Moderna() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 
 void Edad_Contemporanea() {
@@ -52,5 +123,19 @@ void Edad_Contemporanea() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }

@@ -7,7 +7,21 @@ void Universo() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 void Reinos(){
     string palabra;
@@ -15,7 +29,21 @@ void Reinos(){
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 
 void Celula(){
@@ -24,6 +52,20 @@ void Celula(){
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 

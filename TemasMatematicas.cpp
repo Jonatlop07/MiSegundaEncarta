@@ -66,6 +66,8 @@ void Geometria () {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
     system( "PAUSE" );
 }
 

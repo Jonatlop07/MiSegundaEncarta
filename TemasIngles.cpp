@@ -7,7 +7,21 @@ void Vocabulario() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
 
 void Expresiones_Basicas() {
@@ -16,7 +30,21 @@ void Expresiones_Basicas() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 
 }
 
@@ -26,5 +54,19 @@ void Pronombres_Verbos() {
     escribirLeccion( flujoEntrada );
     flujoEntrada.close();
 
+    const string preguntas[5] = { "1.",
+                            "2.",
+                            "3.",
+                            "4.",
+                            "5." };
+    const string opciones[5][3] = { { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." },
+                              { "A.", "B.", "C." } };
+    const char respuestas[ ] = { 'a','b','c','c','a' };
 
+    realizarExamen( preguntas, opciones, respuestas );
+
+    system( "PAUSE" );
 }
