@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string.h>
 #include <fstream>
+#include <windows.h>
 using namespace std;
 
 string leerPalabra ( istream& ) ;

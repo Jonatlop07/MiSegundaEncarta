@@ -1,3 +1,48 @@
-| | | Conjuntos /n
-Cuando utilizamos la palabra conjunto, hacemos referencia a una agrupacion de objetos de cualquier tipo. /n
-Cuando un objeto hace parte de un conjunto, decimos que "pertenece", y en caso contrario "no pertenece". /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
+++++ /n
+++++ | | | | | | Conjuntos /n ++++ /n
+++++ | Cuando utilizamos la palabra conjunto, hacemos referencia a una agrupacion de objetos de cualquier tipo, /n
+++++ | estos pueden compartir al menos una caracteristica. A los conjuntos los podemos llamar con cualquier nombre, /n
+++++ | por ejemplo, el conjunto A que esta conformado por los colores de la bandera de Colombia (amarillo, azul y /n
+++++ | rojo). /n ++++ /n
+++++ | Cuando un objeto hace parte de un conjunto, decimos que "pertenece", y en caso contrario "no pertenece". /n ++++ /n
+++++ | Existen diferentes tipos de conjuntos, entre estos estan: /n ++++ /n
+++++ | *Conjunto vacio: Conjunto que no posee elementos. /n
+++++ | *Conjunto unitario: Conjunto que tiene un unico elemento. /n
+++++ | *Conjunto finito: Conjunto cuyos elementos puedes contar (por ejemplo, el conjunto de papas que compraste /n
+++++ | en la tienda). /n
+++++ | *Conjunto universal: Es un conjunto al cual nos referimos en determinadas ocasiones. Este contiene los /n
+++++ | conjuntos con los que trabajemos y puede tener elementos que otros conjuntos no poseen. /n
+++++ | *Conjunto infinito: Conjunto cuya cantidad de elementos no puedes contar, puesto que no tiene fin. /w /n 
+++++ | Estudiaremos con mas profundidad este conjunto mas adelante. /n ++++ /n
+++++ | En matematicas, para referirnos a un conjunto podemos usar tres metodos: por extension, por comprension y /n
+++++ | por medio de diagramas de Venn. /n ++++ /n
+++++ | *Por extension: Este metodo consiste en mencionar cada elemento del conjunto. La notacion usada es: Nombre /n
+++++ | del conjunto, seguido por el signo '=' y los elementos agrupados dentro de llaves '{}' y separados por /n
+++++ | comas. Por ejemplo: /n ++++ /n
+++++ | - El conjunto de numeros llamado N conformado por los numeros del 1 al 5: A = {1,2,3,4,5} /n 
+++++ | - El conjunto de vehiculos llamado V conformado por determinados medios de transporte: /n
+++++ | V = {automovil, moto, avion, barco, bicicleta} /n ++++ /n
+++++ | *Por comprension: Mediante este metodo nos referimos a los elementos de un conjunto sin tener que mencio- /n
+++++ | nar cada uno. Es muy util cuando tenemos un conjunto infinito, cuyos elementos no podriamos mencionar por /n
+++++ | extension, debido a que no tiene fin. La notacion usada es: Nombre del conjunto, seguido por el signo '=' y /n
+++++ | una frase agrupada dentro de llaves '{}' que haga referencia a sus elementos sin necesidad de mencionar /n
+++++ | cada uno. Por ejemplo: /n ++++ /n
+++++ | - F = {n tal que n es una verdura}, donde n es cualquier elemento que cumpla la caracteristica de ser una /n
+++++ | verdura (n puede ser espinaca, o cebolla, o tomate). /n
+++++ | - N = {x tal que x es un numero natural}, donde x es cualquier numero natural. En ese caso, x bien puede ser /n
+++++ | 1, o ser 1000, o ser 342342353523534, debido a que los numeros naturales de por si conforman un conjunto, /n
+++++ | y este conjunto es infinito, debido a que si decides contar cada numero nunca vas a terminar. /n ++++ /n
+++++ | *Diagramas de Venn: Este metodo es muy util para representar los conjuntos de forma grafica. Consiste en /w /n 
+++++ | realizar circulos u ovalos y dentro de estos incluir los elementos. Por ejemplo: /n ++++ /n
+++++ | -----------[U]------------------- /n ++++ /n
+++++ | | __ __ __ [A] /n     
+++++ | | __ ******* /n
+++++ | | * 1 2 3 * /n
+++++ | | * 4 5 6 * /n
+++++ | | __ ******* __ __ __ __ 7 /n ++++ /n
+++++ | --------------------------------- /n ++++ /n
+++++ | Como puedes observar, el conjunto A = { n tal que n es un numero mayor que 1 y menor que 7} pertenece al /n
+++++ | conjunto universal U = {Numeros del 1 al 7}. Ademas, hay un elemento que se encuentra por fuera del conjunto /n
+++++ | A, que es el 7, entonces, podemos decir que 7 NO pertenece al conjunto A. /n ++++ /n

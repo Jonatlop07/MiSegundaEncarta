@@ -21,6 +21,8 @@ int elegirCurso () {
        }
     } while ( valor_incorrecto );
 
+    system( "cls" );
+
     return opcion;
 }
 
@@ -51,6 +53,8 @@ void cursoMatematicas() {
         case(3):
             Geometria();
     }
+
+    system( "cls" );
 }
 
 void cursoHistoria() {
@@ -90,6 +94,8 @@ void cursoHistoria() {
         case(6):
             Edad_Contemporanea();
     }
+
+    system( "cls" );
 }
 
 
@@ -120,6 +126,8 @@ void cursoCienciasNaturales() {
         case(3):
             Celula();
     }
+
+    system( "cls" );
 }
 
 void cursoIngles() {
@@ -149,4 +157,6 @@ void cursoIngles() {
         case(3):
             Pronombres_Verbos();
     }
+
+    system( "cls" );
 }

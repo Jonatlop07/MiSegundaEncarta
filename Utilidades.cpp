@@ -16,6 +16,10 @@ void escribirLeccion ( ifstream& flujoEntrada) {
             cout << '\t';
         } else if ( palabra == "/n" ) {
             cout << '\n';
+        } else if ( palabra == "__" ) {
+            cout << ' ';
+        } else if ( palabra == "/w" ) {
+            Sleep( 20000 );
         } else {
             cout << palabra << " ";
         }
