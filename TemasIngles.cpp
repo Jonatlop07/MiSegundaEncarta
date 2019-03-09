@@ -19,7 +19,7 @@ void Vocabulario() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 13 );
 
     system( "PAUSE" );
 }
@@ -42,7 +42,7 @@ void Expresiones_Basicas() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 14 );
 
     system( "PAUSE" );
 
@@ -66,7 +66,7 @@ void Pronombres_Verbos() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 15 );
 
     system( "PAUSE" );
 }

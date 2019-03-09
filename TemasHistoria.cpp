@@ -19,7 +19,7 @@ void Prehistoria() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 4 );
 
     system( "PAUSE" );
 
@@ -43,7 +43,7 @@ void Edad_Antigua() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 5 );
 
     system( "PAUSE" );
 }
@@ -66,7 +66,7 @@ void Edad_Media() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 6 );
 
     system( "PAUSE" );
 }
@@ -89,7 +89,7 @@ void Renacimiento() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 7 );
 
     system( "PAUSE" );
 }
@@ -112,7 +112,7 @@ void Edad_Moderna() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 8 );
 
     system( "PAUSE" );
 }
@@ -135,7 +135,7 @@ void Edad_Contemporanea() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 9 );
 
     system( "PAUSE" );
 }

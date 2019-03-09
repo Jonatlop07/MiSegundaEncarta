@@ -19,7 +19,7 @@ void Universo() {
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 10 );
 
     system( "PAUSE" );
 }
@@ -41,7 +41,7 @@ void Reinos(){
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 11 );
 
     system( "PAUSE" );
 }
@@ -64,7 +64,7 @@ void Celula(){
                               { "A.", "B.", "C." } };
     const char respuestas[ ] = { 'a','b','c','c','a' };
 
-    realizarExamen( preguntas, opciones, respuestas );
+    realizarExamen( preguntas, opciones, respuestas, 12 );
 
     system( "PAUSE" );
 }

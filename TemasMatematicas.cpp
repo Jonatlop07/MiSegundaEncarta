@@ -33,7 +33,7 @@ void Conjuntos () {
                               { "\nA. P = {0,2,4,6,10}", "B. P = {1,2,4,6,8}", "C. P = {0,2,4,6,8}" } };
         const char respuestas [] = { 'a','c','b','a','c', '\0' };
 
-        realizarExamen( preguntas, opciones, respuestas );
+        realizarExamen( preguntas, opciones, respuestas, 1 );
     }
     system( "PAUSE" );
 }
@@ -73,7 +73,7 @@ void Aritmetica() {
 
         const char respuestas[ ] = { 'b','b','a','c','b' };
 
-        realizarExamen( preguntas, opciones, respuestas );
+        realizarExamen( preguntas, opciones, respuestas, 2 );
     }
 
     system( "PAUSE" );
@@ -114,7 +114,7 @@ void Geometria () {
 
         const char respuestas[ ] = { 'a','b','c','c','a' };
 
-        realizarExamen( preguntas, opciones, respuestas );
+        realizarExamen( preguntas, opciones, respuestas, 3 );
     }
 
     system( "PAUSE" );
