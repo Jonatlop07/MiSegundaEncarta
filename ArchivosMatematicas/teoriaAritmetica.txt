@@ -1,3 +1,56 @@
-| | | Aritmetica /n
-El termino aritmetica lo usamos para referirnos a las propiedades de los numeros. /n
-Estas son: suma, resta, multiplicacion y division. /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
+++++ /n
+++++ | | | | | | ARITMETICA /n ++++ /n
+++++ | La aritmetica es el area de las matematicas que estudia los sistemas numericos y las operaciones elementales /n
+++++ | que se pueden realizar en ellos. /n
+++++ | Para empezar estudiaremos el primer sistema numerico, el cual es basicamente un conjunto de numeros. En efecto, /n
+++++ | se trata de los numeros naturales. /n ++++ /n
+++++ | *Los numeros naturales: /n ++++ /n
+++++ | El conjunto de los numeros naturales ( N = {0,1,2,3...} ) es aquel conformado por numeros positivos, es decir, /n
+++++ | aquellos numeros que nos permiten contar (y fue debido a esto que se invento por el ser humano). /n
+++++ | Este conjunto tiene cuatro operaciones elementales: la suma o adicion, la resta o sustraccion, la multiplicacion /n
+++++ | o producto y la division. /n ++++ /n
+++++ | -> Suma o adicion: Consiste en aniadir dos o mas numeros para obtener un resultado final mayor o igual, por /n
+++++ | ejemplo: /n ++++ /n
+++++ | - Te regalan unas manzanas, tu las cuentas y ves que tienes 2 manzanas en la izquerda y 2 en la derecha. Sin /n
+++++ | embargo, quieres saber cuantas manzanas tienes en total. /n ++++ /n
+++++ | | | __ **** __ __ **** __ __ __ __ __ __ **** __ __ **** /n 
+++++ | | | * __ __ __ * * __ __ __ * __ __ __ __  * __ __ __ * * __ __ __ * /n
+++++ | | | * __ __ __ * * __ __ __ * __ __ __ __  * __ __ __ * * __ __ __ * /n
+++++ | | | __ **** __ __ **** __ __ __ __ __ __ **** __ __ **** /n ++++ /n
+++++ | Decides juntarlas y encuentras que tienes 4. A este razonamiento le llamamos sumar, y matematicamente se /n
+++++ | expresa asi: 2 + 2 = 4, donde '+' es el operador de adicion o suma y se lee 'mas', y '=' es el simbolo de /n
+++++ | igualdad o equivalencia y se lee 'igual a' o 'equivale a'. Recuerda que puedes sumar tantos numeros como desees. /w /n ++++ /n
+++++ | -> Propiedades de la suma de naturales: /n ++++ /n
+++++ | Sean a y b numeros naturales: /n ++++ /n
+++++ | - Propiedad clausurativa: La suma de numeros naturales siempre dara como resultado un numero natural. /n
+++++ | - Propiedad conmutativa: El orden de los sumandos no altera el resultado ( 3 + 4 = 7 y 4 + 3 = 7). /n
+++++ | - Propiedad asociativa: Cuando se suman mas de 3 numeros, el resultado es el mismo sin importar el orden /n 
+++++ | en el que se sumen ( (2 + 3) + 1 = 6 , 2 + ( 3 + 1 ) = 6 y ( 2 + 1 ) + 3 = 6 ). /n
+++++ | NOTA: El parentesis es un signo de agrupacion, por lo tanto, las operaciones que estan dentro del parentesis /n
+++++ | se realizan primero que las que estan fuera. /n
+++++ | - Propiedad modulativa: Un numero natural sumado con cero es igual al dicho numero ( 3 + 0 = 3, 2 + 1 + 4 + 0 = 7). /n ++++ /n
+++++ | -> Resta o sustraccion: Consiste en reducir uno o mas numeros en cierta cantidad, para obtener un resultado /n
+++++ | final menor o igual, por ejemplo: /n ++++ /n
+++++ | - Tienes 5 dulces, y de repente te dan antojos de comerte unos cuantos. Decides comerte 1, y quieres saber /n
+++++ | cuantos te quedan. /n ++++ /n
+++++ | | | **** __ **** __ **** __ **** __ __ ** /n 
+++++ | | | * __ * __ * __ * __ * __ * __ * __ * __ *//* /n
+++++ | | | * __ * __ * __ * __ * __ * __ * __ * __ *//* /n
+++++ | | | **** __ **** __ **** __ **** __ __ ** /n ++++ /n
+++++ | Decides contarlos y encuentras que te quedan 4. A este razonamiento le llamamos restar, y matematicamente se /n
+++++ | expresa asi: 5 - 1 = 4, donde '-' es el operador de sustraccion o resta y se lee 'menos'. Cuando restas numeros /n
+++++ | naturales, debes tener en cuenta que el sustractor (el numero que se resta) no debe ser mayor que el sustraendo /n
+++++ | (el numero AL que se le resta). /w /n ++++ /n
+++++ | -> Propiedades de la resta de naturales: /n ++++ /n
+++++ | Cuando se restan numeros naturales, encontramos que a diferencia de la suma, la resta no posee ninguna de sus /n
+++++ | propiedades ( exceptuando la modulativa cuando el 0 es el sustractor ). Por lo tanto, veremos algunos casos /n
+++++ | en los que estas propiedades se incumplen: /n
+++++ | - Propiedad clausurativa: 3 - 2 = 1 cumple con la propiedad, pero 4 - 6 no pertenece a los numeros naturales /n
+++++ | y 2 - 3 tampoco, puesto que 6 es mayor que 4 y 3 es mayor que 2. Entonces cual es el resultado? (mas adelante /n
+++++ | estará disponible la lectura de numeros enteros). /n
+++++ | - Propiedad conmutativa, asociativa y modulativa: Cuando se restan numeros naturales, hay que tener en cuenta /n
+++++ | que el orden de los numeros que se operan altera el resultado final. Por ejemplo, 12 - (4 - 2) = 10 es /n
+++++ | diferente a (12 - 4) - 2 = 6. Esto tambien aplica para el 0, ya que 5 - 0 = 5, pero 0 - 5 no pertenece a /n
+++++ | los numeros naturales. /n ++++ /n

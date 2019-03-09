@@ -46,14 +46,18 @@ void realizarExamen ( const string preguntas[], const string opciones [][3], con
 
         } while ( valor_incorrecto );
 
-        if ( ( eleccion == 'a' || eleccion == 'A' ) && tolower(eleccion) == respuestas[ i ] )
+        cout << endl;
+
+        if ( ( eleccion == 'a' || eleccion == 'A' ) && ( tolower( eleccion ) == respuestas[ i ] ) )
             respuestas_correctas++;
 
-        if ( ( eleccion == 'b' || eleccion == 'B' ) && tolower( eleccion ) == respuestas[ i ] )
+        else if ( ( eleccion == 'b' || eleccion == 'B' ) && ( tolower( eleccion ) == respuestas[ i ] ) )
             respuestas_correctas++;
 
-        if ( ( eleccion == 'a' || eleccion == 'A' ) && tolower( eleccion ) == respuestas[ i ] )
+        else if ( ( eleccion == 'c' || eleccion == 'C' ) && ( tolower( eleccion ) == respuestas[ i ] ) )
             respuestas_correctas++;
+
+        system( "cls" );
     }
     cout << "Tu resultado es: " << respuestas_correctas << "/5" << endl;
 }

@@ -34,7 +34,7 @@
 
 1552146613 c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.h
 
-1552147245 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.cpp
+1552167619 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasmatematicas.cpp
 	"TemasMatematicas.h"
 	"Utilidades.h"
 
@@ -87,6 +87,6 @@
 	<fstream>
 	<windows.h>
 
-1552144830 source:c:\users\jonathan lópez\documents\github\misegundaencarta\utilidades.cpp
+1552151517 source:c:\users\jonathan lópez\documents\github\misegundaencarta\utilidades.cpp
 	"Utilidades.h"
 

@@ -1,7 +1,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
 ++++ /n
-++++ | | | | | | Conjuntos /n ++++ /n
+++++ | | | | | | CONJUNTOS /n ++++ /n
 ++++ | Cuando utilizamos la palabra conjunto, hacemos referencia a una agrupacion de objetos de cualquier tipo, /n
 ++++ | estos pueden compartir al menos una caracteristica. A los conjuntos los podemos llamar con cualquier nombre, /n
 ++++ | por ejemplo, el conjunto A que esta conformado por los colores de la bandera de Colombia (amarillo, azul y /n
