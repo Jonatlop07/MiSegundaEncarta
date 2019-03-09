@@ -43,6 +43,6 @@
 ++++ | | * 4 5 6 * /n
 ++++ | | __ ******* __ __ __ __ 7 /n ++++ /n
 ++++ | --------------------------------- /n ++++ /n
-++++ | Como puedes observar, el conjunto A = { n tal que n es un numero mayor que 1 y menor que 7} pertenece al /n
+++++ | Como puedes observar, el conjunto A = { n tal que n es un numero mayor que 0 y menor que 7} pertenece al /n
 ++++ | conjunto universal U = {Numeros del 1 al 7}. Ademas, hay un elemento que se encuentra por fuera del conjunto /n
 ++++ | A, que es el 7, entonces, podemos decir que 7 NO pertenece al conjunto A. /n ++++ /n
