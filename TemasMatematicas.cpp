@@ -40,7 +40,7 @@ void Conjuntos () {
 
 void Aritmetica() {
     system( "cls" );
-    system( "color e0");
+    system( "color f0");
 
     string palabra;
     ifstream flujoEntrada("ArchivosMatematicas/teoriaAritmetica.txt");
@@ -82,7 +82,7 @@ void Aritmetica() {
 
 void Geometria () {
     system( "cls" );
-    system( "color 4f");
+    system( "color f0");
 
     string palabra;
     ifstream flujoEntrada( "ArchivosMatematicas/teoriaGeometria.txt" );

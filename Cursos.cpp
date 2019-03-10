@@ -8,16 +8,16 @@ int elegirCurso () {
     int opcion = 0;
     bool valor_incorrecto = false;
 
-    cout << "Ofrecemos los siguientes cursos: \n\n";
-    cout << "1. Matematicas. \n2. Historia. \n3. Ciencias naturales. \n4. Ingles.\n\n";
-    cout << "Por favor, elige el que sea mas de tu interes: ";
+    cout << "\n\n\n\tOfrecemos los siguientes cursos: \n\n";
+    cout << "\n\t1. Matematicas. \n\t2. Historia. \n\t3. Ciencias naturales. \n\t4. Ingles.\n\n";
+    cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
        cin >> opcion;
        valor_incorrecto = opcion < 1 || opcion > 4;
 
        if ( valor_incorrecto ) {
-            cout << "Valor incorrecto. Intentalo de nuevo: ";
+            cout << "\tValor incorrecto. Intentalo de nuevo: ";
        }
     } while ( valor_incorrecto );
 
@@ -30,16 +30,16 @@ void cursoMatematicas() {
     int opcion = 0;
     bool valor_incorrecto = false;
 
-    cout << "Elige un tema: \n\n";
-    cout << "1. Conjuntos. \n2. Aritmetica. \n3. Geometria.\n\n";
-    cout << "Por favor, elige el que sea mas de tu interes: ";
+    cout << "\n\n\n\tElige un tema: \n\n";
+    cout << "\n\t1. Conjuntos. \n\t2. Aritmetica. \n\t3. Geometria.\n\n";
+    cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
        cin >> opcion;
        valor_incorrecto = opcion < 1 || opcion > 3;
 
        if ( valor_incorrecto ) {
-            cout << "Valor incorrecto. Intentalo de nuevo: ";
+            cout << "\tValor incorrecto. Intentalo de nuevo: ";
        }
     } while ( valor_incorrecto );
 
@@ -61,17 +61,17 @@ void cursoHistoria() {
     int opcion = 0;
     bool valor_incorrecto = false;
 
-    cout << "Elige un tema: \n\n";
-    cout << "1. Prehistoria. \n2. Edad Antigua. \n3. Edad Media. \n4. Renacimiento. " <<
-            "\n5. Edad Moderna.\n6. Edad Contemporanea.\n\n";
-    cout << "Por favor, elige el que sea mas de tu interes: ";
+    cout << "\n\n\n\tElige un tema: \n\n";
+    cout << "\n\t1. Prehistoria. \n\t2. Edad Antigua. \n\t3. Edad Media. \n\t4. Renacimiento. " <<
+            "\n\t5. Edad Moderna.\n\t6. Edad Contemporanea.\n\n";
+    cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
        cin >> opcion;
        valor_incorrecto = opcion < 1 || opcion > 6;
 
        if ( valor_incorrecto ) {
-            cout << "Valor incorrecto. Intentalo de nuevo: ";
+            cout << "\tValor incorrecto. Intentalo de nuevo: ";
        }
     } while ( valor_incorrecto );
 
@@ -103,16 +103,16 @@ void cursoCienciasNaturales() {
     int opcion = 0;
     bool valor_incorrecto = false;
 
-    cout << "Elige un tema: \n\n";
-    cout << "1. El universo. \n2. Los reinos animal y vegetal. \n3. La celula.\n\n";
-    cout << "Por favor, elige el que sea mas de tu interes: ";
+    cout << "\n\n\n\tElige un tema: \n\n";
+    cout << "\n\t1. El universo. \n\t2. Los reinos animal y vegetal. \n\t3. La celula.\n\n";
+    cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
        cin >> opcion;
        valor_incorrecto = opcion < 1 || opcion > 3;
 
        if ( valor_incorrecto ) {
-            cout << "Valor incorrecto. Intentalo de nuevo: ";
+            cout << "\tValor incorrecto. Intentalo de nuevo: ";
        }
     } while ( valor_incorrecto );
 
@@ -134,16 +134,16 @@ void cursoIngles() {
     int opcion = 0;
     bool valor_incorrecto = false;
 
-    cout << "Elige un tema: \n\n";
-    cout << "1. Vocabulario. \n2. Expresiones basicas. \n3. Pronombres y verbo to be.\n\n";
-    cout << "Por favor, elige el que sea mas de tu interes: ";
+    cout << "\n\n\n\tElige un tema: \n\n";
+    cout << "\n\t1. Vocabulario. \n\t2. Expresiones basicas. \n\t3. Pronombres y verbo to be.\n\n";
+    cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
        cin >> opcion;
        valor_incorrecto = opcion < 1 || opcion > 3;
 
        if ( valor_incorrecto ) {
-            cout << "Valor incorrecto. Intentalo de nuevo: ";
+            cout << "\tValor incorrecto. Intentalo de nuevo: ";
        }
     } while ( valor_incorrecto );
 

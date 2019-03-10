@@ -19,7 +19,7 @@ void escribirLeccion ( ifstream& flujoEntrada) {
         } else if ( palabra == "__" ) {
             cout << ' ';
         } else if ( palabra == "/w" ) {
-            //Sleep( 20000 );
+            Sleep( 20000 );
         } else {
             cout << palabra << " ";
         }
