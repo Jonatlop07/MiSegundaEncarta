@@ -75,7 +75,7 @@ int main() {
             system( "color 4f" );
             Sleep( 20 );
             i++;
-        } while (i < 5);
+        } while (i < 3);
         Sleep( 4000 );
         system ( "cls" );
         system( "color 1f" );

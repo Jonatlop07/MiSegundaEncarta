@@ -7,7 +7,7 @@
 #include <cstdlib>
 using namespace std;
 
-void Universo();
+void SistemaSolar();
 void Reinos();
 void Celula();
 

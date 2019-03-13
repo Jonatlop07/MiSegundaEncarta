@@ -13,6 +13,7 @@ void Conjuntos () {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
+        cout << "\t\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -48,8 +49,9 @@ void Aritmetica() {
     flujoEntrada.close();
 
     int eleccion;
-    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2.No\n";
+    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
+        cout << "\t\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -65,11 +67,11 @@ void Aritmetica() {
                                 "5. El mes pasado he comprado un paquete de 25 dulces, y mis 2 primos pequenios se han comido 3 dulces cada uno. Ademas, mi madre me compro 4 dulces ayer. Cuantos dulces tengo actualmente?" };
 
 
-        const string opciones[5][3] = { { "\nA. 27", "B. 28", "C. 26" },
-                                  { "\nA. Su resultado es 1", "B. No se puede hacer con numeros naturales", "C. No se puede resolver"  },
-                                  { "\nA. 4 utiles", "B. 7 utiles", "C. 3 utiles" },
-                                  { "\nA. 2", "B. 8", "C. 4" },
-                                  { "\nA. 25 dulces", "B. 23 dulces", "C. 26 dulces" } };
+        const string opciones[5][3] = { { "A. 27", "B. 28", "C. 26" },
+                                  { "A. Su resultado es 1", "B. No se puede hacer con numeros naturales", "C. No se puede resolver"  },
+                                  { "A. 4 utiles", "B. 7 utiles", "C. 3 utiles" },
+                                  { "A. 2", "B. 8", "C. 4" },
+                                  { "A. 25 dulces", "B. 23 dulces", "C. 26 dulces" } };
 
         const char respuestas[ ] = { 'b','b','a','c','b' };
 
@@ -90,8 +92,9 @@ void Geometria () {
     flujoEntrada.close();
 
     int eleccion;
-    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2.No\n";
+    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
+        cout << "\t\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -100,19 +103,19 @@ void Geometria () {
     if ( eleccion == 1 ) {
         system( "cls" );
 
-        const string preguntas[5] = { "1.",
-                                "2.",
-                                "3.",
-                                "4.",
-                                "5." };
+        const string preguntas[5] = { "1. Como se le dice a un poligono de 5 lados?:",
+                                "2. Cuantos vertices tiene un cuadrado?:",
+                                "3. Cuantos lados tiene un hexagono?:",
+                                "4. Cual es el perimetro de un pentagono cuyos lados miden 2 cm?:",
+                                "5. Si el perimetro de un triangulo mide 15 cm, cuanto mide cada lado?:" };
 
-        const string opciones[5][3] = { { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." } };
+        const string opciones[5][3] = { { "A. Hexagono", "B. Triangulo", "C. Pentagono" },
+                                  { "A. 4 vertices", "B. 3 vertices", "C. 2 vertices" },
+                                  { "A. 6 lados", "B. 7 lados", "C. 9 lados" },
+                                  { "A. 8 cm", "B. 10 cm", "C. 12 cm" },
+                                  { "A. 5 cm", "B. 10 cm", "C. 15 cm" } };
 
-        const char respuestas[ ] = { 'a','b','c','c','a' };
+        const char respuestas[ ] = { 'c','a','a','b','a' };
 
         realizarExamen( preguntas, opciones, respuestas, 3 );
     }

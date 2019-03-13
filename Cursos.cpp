@@ -62,7 +62,7 @@ void cursoHistoria() {
 
     cout << "\n\n\n\tElige un tema: \n\n";
     cout << "\n\t1. Prehistoria. \n\t2. Edad Antigua. \n\t3. Edad Media. \n\t4. Renacimiento. " <<
-            "\n\t5. Edad Moderna.\n\t6. Edad Contemporanea.\n\n";
+            "\n\t5. Edad Moderna.\n\n";
     cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
@@ -89,9 +89,6 @@ void cursoHistoria() {
             break;
         case(5):
             Edad_Moderna();
-            break;
-        case(6):
-            Edad_Contemporanea();
     }
 
     system( "cls" );
@@ -103,7 +100,7 @@ void cursoCienciasNaturales() {
     bool valor_incorrecto = false;
 
     cout << "\n\n\n\tElige un tema: \n\n";
-    cout << "\n\t1. El universo. \n\t2. Los reinos animal y vegetal. \n\t3. La celula.\n\n";
+    cout << "\n\t1. El sistema solar. \n\t2. Los reinos animal y vegetal. \n\t3. La celula.\n\n";
     cout << "\tPor favor, elige el que sea mas de tu interes: ";
 
     do {
@@ -117,7 +114,7 @@ void cursoCienciasNaturales() {
 
     switch (opcion) {
         case(1):
-            Universo();
+            SistemaSolar();
             break;
         case(2):
             Reinos();

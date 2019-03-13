@@ -16,29 +16,29 @@
 ++++ | Hello - Hola /n
 ++++ | How are you? - Como estas? /n
 ++++ | Please - Por favor /n
-++++ | Thank you – Gracias /n ++++ /n
+++++ | Thank you - Gracias /w /n ++++ /n
 ++++ | Algunas palabras mas usadas en ingles: /n ++++ /n
-++++ | Name - nombre /n
-++++ | There - alla, hay /n
-++++ | New - nuevo /n
-++++ | Which - cual /n
-++++ | How - como /n
-++++ | What - que, cual /n
-++++ | That - que, eso/e/a, aquello/a /n
-++++ | Because - porque /n
-++++ | The - el, la, los, las /n
-++++ | Be - ser o estar /n ++++ /n
+++++ | Name - Nombre /n
+++++ | There - Alla, hay /n
+++++ | New - Nuevo /n
+++++ | Which - Cual /n
+++++ | How - Como /n
+++++ | What - Que, cual /n
+++++ | That - Que, eso/e/a, aquello/a /n
+++++ | Because - Porque /n
+++++ | The - El, la, los, las /n
+++++ | Be - Ser o estar /n ++++ /n
 ++++ | Verbos mas usados en ingles: /n ++++ /n
-++++ | Come - venir /n
-++++ | Do - hacer /n
-++++ | Go - ir /n
-++++ | Have - tener /n
-++++ | Help - ayudar /n
-++++ | Like - gustar /n
-++++ | Live - vivir /n
-++++ | Need - necesitar /n
-++++ | Think - pensar /n
-++++ | Can - poder /n ++++ /n
+++++ | Come - Venir /n
+++++ | Do - Hacer /n
+++++ | Go - Ir /n
+++++ | Have - Tener /n
+++++ | Help - Ayudar /n
+++++ | Like - Gustar /n
+++++ | Live - Vivir /n
+++++ | Need - Necesitar /n
+++++ | Think - Pensar /n
+++++ | Can - Poder /w /n ++++ /n
 ++++ | Que tal si lo practicas durante tus viajes al extranjero? /n ++++ /n
 ++++ | Accommodation - Alojamiento /n
 ++++ | Flight - Vuelo /n

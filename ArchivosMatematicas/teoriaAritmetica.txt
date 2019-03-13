@@ -9,8 +9,8 @@
 ++++ | *Los numeros naturales: /n ++++ /n
 ++++ | El conjunto de los numeros naturales ( N = {0,1,2,3...} ) es aquel conformado por numeros positivos, es decir, /n
 ++++ | aquellos numeros que nos permiten contar (y fue debido a esto que se invento por el ser humano). /n
-++++ | Este conjunto tiene cuatro operaciones elementales: la suma o adicion, la resta o sustraccion, la multiplicacion /n
-++++ | o producto y la division. /n ++++ /n
+++++ | Este conjunto tiene cuatro operaciones elementales: la suma o adicion, la resta o sustraccion, la multiplica- /n
+++++ | cion o producto y la division. /n ++++ /n
 ++++ | -> Suma o adicion: Consiste en aniadir dos o mas numeros para obtener un resultado final mayor o igual, por /n
 ++++ | ejemplo: /n ++++ /n
 ++++ | - Te regalan unas manzanas, tu las cuentas y ves que tienes 2 manzanas en la izquerda y 2 en la derecha. Sin /n
@@ -21,7 +21,8 @@
 ++++ | | | __ **** __ __ **** __ __ __ __ __ __ **** __ __ **** /n ++++ /n
 ++++ | Decides juntarlas y encuentras que tienes 4. A este razonamiento le llamamos sumar, y matematicamente se /n
 ++++ | expresa asi: 2 + 2 = 4, donde '+' es el operador de adicion o suma y se lee 'mas', y '=' es el simbolo de /n
-++++ | igualdad o equivalencia y se lee 'igual a' o 'equivale a'. Recuerda que puedes sumar tantos numeros como desees. /w /n ++++ /n
+++++ | igualdad o equivalencia y se lee 'igual a' o 'equivale a'. Recuerda que puedes sumar tantos numeros como /n
+++++ | desees. /w /n ++++ /n
 ++++ | -> Propiedades de la suma de naturales: /n ++++ /n
 ++++ | Sean a y b numeros naturales: /n ++++ /n
 ++++ | - Propiedad clausurativa: La suma de numeros naturales siempre dara como resultado un numero natural. /n
@@ -46,10 +47,10 @@
 ++++ | -> Propiedades de la resta de naturales: /n ++++ /n
 ++++ | Cuando se restan numeros naturales, encontramos que a diferencia de la suma, la resta no posee ninguna de sus /n
 ++++ | propiedades ( exceptuando la modulativa cuando el 0 es el sustractor ). Por lo tanto, veremos algunos casos /n
-++++ | en los que estas propiedades se incumplen: /n
+++++ | en los que estas propiedades se incumplen: /n ++++ /n
 ++++ | - Propiedad clausurativa: 3 - 2 = 1 cumple con la propiedad, pero 4 - 6 no pertenece a los numeros naturales /n
 ++++ | y 2 - 3 tampoco, puesto que 6 es mayor que 4 y 3 es mayor que 2. Entonces cual es el resultado? (mas adelante /n
-++++ | estará disponible la lectura de numeros enteros). /n
+++++ | estará disponible la lectura de numeros enteros). /n ++++ /n
 ++++ | - Propiedad conmutativa, asociativa y modulativa: Cuando se restan numeros naturales, hay que tener en cuenta /n
 ++++ | que el orden de los numeros que se operan altera el resultado final. Por ejemplo, 12 - (4 - 2) = 10 es /n
 ++++ | diferente a (12 - 4) - 2 = 6. Esto tambien aplica para el 0, ya que 5 - 0 = 5, pero 0 - 5 no pertenece a /n

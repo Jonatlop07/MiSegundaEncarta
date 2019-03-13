@@ -1,44 +1,44 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
-++++ /n
+++++ | /n
 ++++ | | | | | | VERB TO BE (Present Simple) /n ++++ /n
-++++ | El verbo 'To be' tiene una importancia especial en ingles. Se corresponde a los verbos en español  /n
+++++ | El verbo 'To be' tiene una importancia especial en ingles. Se corresponde a los verbos en espaniol  /n
 ++++ | "ser" y "estar". Dependiendo del sentido de la frase deduciremos de cual de los dos se trata. /n ++++ /n
 ++++ | Ejemplos: /n
 ++++ | - I am English / Soy ingles /n
 ++++ | - I am in England / Estoy en Inglaterra /n ++++ /n
 ++++ | Sirve para expresar la edad, en cuyo caso se traduce por 'tener' /n
-++++ | - Mary is 20 years old / Maria tiene 20 años /n
-++++ | - I am 21 / Yo tengo 21 años /n
-++++ | - How old are you? / Cuantos años tienes? /n ++++ /n
-++++ | Para expresar las sensaciones también se emplea el verbo 'to be' y equivale al 'tener' en el español. /n
+++++ | - Mary is 20 years old / Maria tiene 20 anios /n
+++++ | - I am 21 / Yo tengo 21 anios /n
+++++ | - How old are you? / Cuantos anios tienes? /n ++++ /n
+++++ | Para expresar las sensaciones tambien se emplea el verbo 'to be' y equivale al 'tener' en el espaniol. /n
 ++++ | - Are you hungry? / Tienes hambre? /n
 ++++ | - He is thirsty / El tiene sed /n ++++ /n
 ++++ | Tambien para hablar sobre el tiempo atmosferico. En este caso se traduce por 'hacer'. /n ++++ /n
 ++++ | - It's windy / Hace viento /n
-++++ | - It's very cold / Hace mucho frio /n ++++ /n
+++++ | - It's very cold / Hace mucho frio /w /n ++++ /n
 ++++ | A continuacion, encontraras las formas afirmativas, negativas e interrogativas del Verb To Be /n ++++ /n
 ++++ | Forma afirmativa: /n ++++ /n
-++++ | I am (I'm) - Yo soy, estoy /n
-++++ | You are (you're) - Tu eres, estas /n
-++++ | He is (he's) - El es, esta /n
-++++ | She is (she's) - Ella es, esta /n
-++++ | We are (we're) - Nosotros somos, estamos /n
-++++ | You are (you're) - Ustedes son, estan /n
-++++ | They are (they're) - Ellos son, estan /n ++++ /n
+++++ | - I am (I'm) - Yo soy, estoy /n
+++++ | - You are (you're) - Tu eres, estas /n
+++++ | - He is (he's) - El es, esta /n
+++++ | - She is (she's) - Ella es, esta /n
+++++ | - We are (we're) - Nosotros somos, estamos /n
+++++ | - You are (you're) - Ustedes son, estan /n
+++++ | - They are (they're) - Ellos son, estan /n ++++ /n
 ++++ | Forma negativa: /n ++++ /n
-++++ | I am not (I'm not) - Yo no soy, estoy /n
-++++ | You are not (you're not) - Tu no eres, estas /n
-++++ | He is not (he's not) - El no es, esta /n
-++++ | She is not (she's not) - Ella no es, esta /n
-++++ | We are not (we're not) - Nosotros no somos, estamos /n
-++++ | You are not (you're not) - Ustedes no son, estan /n
-++++ | They are not (they're not) - Ellos no son, estan /n ++++ /n
+++++ | - I am not (I'm not) - Yo no soy, estoy /n
+++++ | - You are not (you're not) - Tu no eres, estas /n
+++++ | - He is not (he's not) - El no es, esta /n
+++++ | - She is not (she's not) - Ella no es, esta /n
+++++ | - We are not (we're not) - Nosotros no somos, estamos /n
+++++ | - You are not (you're not) - Ustedes no son, estan /n
+++++ | - They are not (they're not) - Ellos no son, estan /n ++++ /n
 ++++ | Forma interrogativa: /n ++++ /n
-++++ | am I? - Soy yo?, estoy yo? /n
-++++ | are you? - Eres tu?, estas tu? /n
-++++ | is he? - Es el?, esta el? /n
-++++ | is she? - Es ella?, esta ella? /n
-++++ | are we? - Somos?, estamos? /n
-++++ | are you? - Son?, estan? /n
-++++ | are they? - Son, estan ellos? /n ++++ /n
+++++ | - Am I? - Soy yo?, estoy yo? /n
+++++ | - Are you? - Eres tu?, estas tu? /n
+++++ | - Is he? - Es el?, esta el? /n
+++++ | - Is she? - Es ella?, esta ella? /n
+++++ | - Are we? - Somos?, estamos? /n
+++++ | - Are you? - Son?, estan? /n
+++++ | - Are they? - Son, estan ellos? /n ++++ /n

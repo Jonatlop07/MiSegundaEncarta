@@ -11,8 +11,9 @@ void Vocabulario() {
     flujoEntrada.close();
 
     int eleccion;
-    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2.No\n";
+    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
+        cout << "\t\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -35,7 +36,7 @@ void Vocabulario() {
 
         const char respuestas[ ] = { 'a','c','a','b','b' };
 
-        realizarExamen( preguntas, opciones, respuestas, 13 );
+        realizarExamen( preguntas, opciones, respuestas, 12 );
     }
 
     system( "PAUSE" );
@@ -51,8 +52,9 @@ void Expresiones_Basicas() {
     flujoEntrada.close();
 
     int eleccion;
-    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2.No\n";
+    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
+        cout << "\t\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -68,14 +70,14 @@ void Expresiones_Basicas() {
                                 "5. What does arroz mean?" };
 
         const string opciones[5][3] = { { "A. I am too tired", "B. Not at all", "C. It is three O' clock" },
-                                  { "\nA. Afternoon and evening", "B. It is near to my house", "C. It is very good" },
-                                  { "\nA. I am from Colombia", "B. It is the same place", "C. It was not very difficult" },
-                                  { "\nA. Yes, I do", "B. I will just check for you", "C. I will tell him you called" },
-                                  { "\nA. It is in the garden", "B. In a minute", "C. Arroz mean rice" } };
+                                  { "A. Afternoon and evening", "B. It is near to my house", "C. It is very good" },
+                                  { "A. I am from Colombia", "B. It is the same place", "C. It was not very difficult" },
+                                  { "A. Yes, I do", "B. I will just check for you", "C. I will tell him you called" },
+                                  { "A. It is in the garden", "B. In a minute", "C. Arroz mean rice" } };
 
         const char respuestas[ ] = { 'c','b','a','a','c' };
 
-        realizarExamen( preguntas, opciones, respuestas, 14 );
+        realizarExamen( preguntas, opciones, respuestas, 13 );
     }
 
     system( "PAUSE" );
@@ -92,8 +94,9 @@ void Pronombres_Verbos() {
     flujoEntrada.close();
 
     int eleccion;
-    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2.No\n";
+    cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
+        cout << "\t\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -116,7 +119,7 @@ void Pronombres_Verbos() {
 
         const char respuestas[ ] = { 'a','c','c','a','b' };
 
-        realizarExamen( preguntas, opciones, respuestas, 15 );
+        realizarExamen( preguntas, opciones, respuestas, 14 );
     }
 
     system( "PAUSE" );

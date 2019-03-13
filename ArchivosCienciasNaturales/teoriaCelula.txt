@@ -1,0 +1,55 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
+++++ /n
+++++ | | | | | | LA CELULA /n ++++ /n
+++++ | La celula es la unidad biologica, funcional y estructural basica de todo ser vivo y a la vez, el /n
+++++ | organismo mas pequenio de todos, capaz de realizar las funciones de nutricion, relacion y reproduccion. /n ++++ /n
+++++ | Todo ser vivo esta formado por celulas, los tejidos que los componen y los organos que los los conforman. /n
+++++ | Sin embargo, no todas las celulas son iguales, puesto que muchas estan especializadas en alguna funcion /n
+++++ | y se encuentran agrupadas en zonas especificas. /n ++++ /n
+++++ | De acuerdo a lo anterior, los organismos pueden ser clasificados como: /n ++++ /n
+++++ | -> Unicelulares: Formados por una sola celula como las las bacterias. /n ++++ /n
+++++ | -> Multicelulares: Formados por una amplia variedad de celulas que normalmente estan especializadas en /n
+++++ | funciones particulares. /n ++++ /n
+++++ | Los dos tipos basicos de celulas son: /n
+++++ | -> Celulas procariotas: Su estructura y funcionamiento es mucho mas simple que la de las celulas /n
+++++ | eucariotas. Se caracterizan por: /n ++++ /n
+++++ | - Las celulas procariotas son parte del Reino Monera. /n
+++++ | - No tienen nucleo definido ni membrana nuclear. /n
+++++ | - La organizacion de este tipo de celulas es normalmente unicelular. /n
+++++ | - Su reproduccion es por fision binaria, es decir, la duplicacion del ADN (Acido desoxirribonucleico), /n
+++++ | seguida de la division del citoplasma (citocinesis), dando lugar a dos celulas hijas. /w /n ++++ /n
+++++ | -> Celulas eucariotas: Estan presentes en casi todos los reinos de la naturaleza. Se caracterizan por: /n ++++ /n
+++++ | - Tener usualmente una organizacion multicelular compleja formando organismos superiores, aunque /n
+++++ | tambien pueden ser parte de organismos unicelulares. /n
+++++ | - Poseer un nucleo diferenciado de sus otras partes, cubierto de una doble membrana nuclear. /n
+++++ | - Posee organelos especializados como el citoplasma, mitocondrias, vacuolas, entre otros, que pueden /n
+++++ | identificarse individualmente en su interior y estan divididos por membranas. /n
+++++ | - Su division es por mitosis y meiosis. /n ++++ /n
+++++ | * Partes de la celula: /n ++++ /n
+++++ | - Nucleo : En ambos casos, el nucleo contiene la mayoria del material genetico en moleculas lineales /n
+++++ | de ADN. Ademas, es el "centro de control" de la celula. /n ++++ /n
+++++ | - Membrana celular: Se encarga de facilitar el transporte de elementos entre la celula y su entorno, /n
+++++ | permitiendo el paso de selectivo de algunos tipos de moleculas e impidiendo el paso de otros. /n ++++ /n
+++++ | - Citoesqueleto: Es la estructura que le garantiza soporte y forma a la celula y mantiene a los orga- /n ++++ /n
+++++ | nelos en su lugar. Es fundamental para el crecimiento, movimiento y reproduccion de la celula, asi como para /n
+++++ | el intercambio de sustancias con el exterior. /n ++++ /n
+++++ | - Citoplasma: Es la estructura que se encuentra entre el nucleo y la membrana plasmatica o celular. /n
+++++ | Se encarga de contener a los organelos y permitir su movimiento y el transporte de sustancias dentro /n
+++++ | de la celula. /w /n ++++ /n
+++++ | - Mitocontrias: Las mitocondrias son organelos que se encargan de la generacion de energia en las /n
+++++ | celulas eucariotas. /n ++++ /n
+++++ | - Cloroplastos: Los cloroplastos tienen la misma funcion de la mitocondria pero se encuentran solamente /n
+++++ | en las plantas y son indispensables para la fotosintesis. /n ++++ /n
+++++ | - Lisosomas: Su funcion es la de procesar y desechar las sustancias que no necesita la celula /n ++++ /n
+++++ | - Perixosomas: Se encargan de deshacerse de cualquier sustancia toxica y de desecho que haya en la celula. /n ++++ /n
+++++ | - Ribosomas: Son organelos que sintetizan proteinas dentro de las celulas /n ++++ /n
+++++ | - Reticulo endoplasmatico: Es un sistema de membranas parecidas a un conjunto de sacos aplanados y tubulos. /n
+++++ | Incluye al reticulo endoplasmatico rugoso al cual se unen ribosomas, lo que permite que se complete la /n
+++++ | sintesis  de algunas de las proteinas de la celula; y al reticulo endoplasmatico liso el cual participa /n
+++++ | en el metabolismo de lipidos, el almacenamiento de calcio y la desintoxicacion de drogas. /n ++++ /n
+++++ | - Aparato de Golgi: Es un organelo que recibe proteinas inmaduras desde el reticulo endoplasmatico rugoso /n
+++++ | y libera vesiculas que se encargan entregar las proteinas maduras. /n ++++ /n
+++++ | - Vacuolas: Organelos caracteristicos de la celula vegetal. Almacenan agua, enzimas, productos de /n
+++++ | secrecion y desechos. /w /n ++++ /n
+++++ | Referencias: https://www.bioenciclopedia.com/la-celula/ /n ++++ /n

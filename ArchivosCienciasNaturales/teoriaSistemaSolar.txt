@@ -1,0 +1,65 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
+++++ /n
+++++ | | | | | | EL SISTEMA SOLAR /n ++++ /n
+++++ | Es el sistema de planetas en el que se encuentra el planeta Tierra y otros elementos y cuerpos que giran /n
+++++ | alrededor de una estrella conocida como Sol. /n ++++ /n
+++++ | Para un mejor entendimiento, brindaremos los siguientes conceptos: /n ++++ /n
+++++ | * Universo: Es, en pocas palabras, todo lo que podemos percibir con nuestros sentidos, e incluso aquello /n
+++++ | que no, como el tiempo. /n ++++ /n
+++++ | * Galaxia: Es un conjunto de cuerpos celestes y materia que estan agrupados en un determinado lugar en /n
+++++ | el universo. La galaxia en la que se encuentra la Tierra se llama La Via Lactea. /n ++++ /n
+++++ | * Cuerpos mayores: /n ++++ /n
+++++ | - Estrellas: Son enormes cuerpos con forma esferica hechos de gas muy caliente y que poseen un altisimo /n
+++++ | brillo. /n
+++++ | - Planetas: Los planetas son cuerpos celestes que orbitan alrededor de una estrella, y que se hacen /n
+++++ | visibles por la luz que reflejan. Poseen una forma esferica / semi-esferica y tienen dominancia orbital, /n
+++++ | es decir, no hay otros cuerpos de tamanio comparable en sus orbitas. Un ejemplo es la Tierra. /n
+++++ | - Planetas enanos: Son planetas cuya masa les permite tener forma esferica o semiesferica pero que /n
+++++ | no tienen dominancia orbital. Un ejemplo es Pluton. /n
+++++ | - Satelites: Son cuerpos celestes que orbitan alrededor de los planetas. /w /n ++++ /n
+++++ | * Cuerpos menores: /n ++++ /n
+++++ | - Asteroides: Son cuerpos metalicos rocosos, los cuales son muy pequeños para ser considerados planetas /n
+++++ | y que en su mayoria se encuentran en el Cinturon de Asteroides, un anillo con forma de aro que esta /n
+++++ | entre las orbitas del planeta Marte y el planeta Jupiter. /n
+++++ | - Cometas: Son cuerpos que estan hechos de hielo, polvo y rocas los cuales tienen un centro helado y /n
+++++ | aparentan tener una especie de 'cola' formada por gases y polvo. /n
+++++ | - Meteoroides: Son en su mayoria fragmentos o pedazos de asteorides y cometas, o de planetas y satelites. /n ++++ /n
+++++ | Con base en lo anterior podemos ver cuales son los principales cuerpos que conforman el sistema solar: /n ++++ /n
+++++ | -> El Sol: Es la estrella principal del sistema solar, y constituye su centro. Todos los planetas giran /n
+++++ | alrededor del Sol. Tiene forma esferica y esta compuesta por gas caliente. /n ++++ /n
+++++ | -> Los planetas del sistema solar: Nuestro sistema solar tiene 8 planetas principales, los cuales son, /n
+++++ | ordenados del mas cercano al mas alejado del Sol: /n ++++ /n
+++++ | - Mercurio: Es el planeta mas cercano al Sol y tambien el de menor tamanio. No tiene satelites orbitando /n
+++++ | alrededor, es uno de los cuatro planetas rocosos (junto a Venus, Tierra y Marte), puesto que tiene un /n
+++++ | cuerpo rocoso, como la Tierra. Su nombre se le atribuye al dios griego Hermes (Mercurio para los romanos), /n
+++++ | mensajero de los dioses del Olimpo. /n ++++ /n
+++++ | - Venus: Es el segundo planeta mas cercano al Sol y el sexto planeta mas grande. No posee satelites /n
+++++ | y posee la atmosfera mas caliente del sistema solar. Su nombre se le atribuye a la diosa griega Afrodita /n
+++++ | (Venus para los romanos), diosa del amor. /w /n ++++ /n
+++++ | - Tierra: Es el planeta donde habitamos, el tercero mas cercano al Sol, posee la mayor densidad de los /n
+++++ | ocho planetas del sistema solar, es el quinto mas grande y el mayor de los planetas rocosos. Es actualmente /n
+++++ | el unico cuerpo donde se conoce la existencia de vida. Posee un satelite llamado Luna y su nombre se le /n
+++++ | atribuye a la titan o diosa primigenia griega Gea (Terra para los romanos), quien personifica nuestro /n
+++++ | planeta en la mitologia griega. /n ++++ /n
+++++ | - Marte: Comunmente llamado el Planeta Rojo, por su apariencia rojiza, es el cuarto planeta mas cercano /n
+++++ | al Sol y el segundo mas pequenio. Tiene dos satelites orbitando a su alrededor llamados Fobos y Deimos. /n
+++++ | Su nombre se le atribuye al dios griego Ares (Marte para los romanos), dios de la guerra y la discordia. /n ++++ /n
+++++ | - Jupiter: Es el planeta mas grande del sistema solar. Es aproximadamente 318 veces mas grande que la /n
+++++ | Tierra y el quinto mas alejado del Sol. Pertenece al grupo de los planetas gaseosos (junto a Saturno, /n
+++++ | Neptuno y Urano) y hasta el momento tiene 79 satelites girando relativamente "cerca" a su orbita. /n
+++++ | Su nombre se le atribuye al dios griego Zeus (Jupiter para los romanos), padre de los dioses y los /n
+++++ | hombres y rey de los dioses del Olimpo. /n ++++ /n
+++++ | - Saturno: Es el segundo planeta mas grande del sistema solar y el sexto mas alejado del Sol. Su prin- /n
+++++ | cipal caracteristica es el anillo que lo rodea, conformado por satelites y claramente visible desde la /n
+++++ | Tierra. Su nombre se le atribuye al titan griego Cronos (Saturno para los romanos), dios primigenio /n
+++++ | del tiempo. /n ++++ /n
+++++ | - Urano: Es el septimo planeta mas alejado del Sol y el tercero de mayor tamanio. Posee la atmosfera /n
+++++ | mas fria entre todos los planetas del sistema solar. Tiene 27 satelites y su nombre se le atribuye al /n
+++++ | titan griego Urano (curiosamente los romanos no le cambiaron el nombre xD), deidad que representaba /n
+++++ | el cielo. /w /n ++++ /n
+++++ | - Neptuno: El planeta mas alejado del Sol y el cuarto mas grande. Posee catorce satelites alrededor y /n
+++++ | su nombre se le atribuye al dios griego Poseidon (Neptuno para los romanos), dios del mar. /n ++++ /n
+++++ | Dato curioso: Hasta hace unos pocos anios (2006) a Pluton se le consideraba un planeta. Sin embargo, /n
+++++ | se llego a la conclusion de que, al no tener dominancia orbital, no podia clasificarse como planeta, /n
+++++ | por lo que actualmente se le considera un Planeta Enano. /n ++++ /n

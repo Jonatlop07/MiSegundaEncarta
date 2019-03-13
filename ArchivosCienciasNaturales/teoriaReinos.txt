@@ -1,0 +1,59 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ /n
+++++ /n
+++++ | | | | | | LOS REINOS ANIMAL Y VEGETAL /n ++++ /n
+++++ | En la naturaleza encontramos una amplia diversidad de seres vivos. Estos a lo largo de la historia han sido /n
+++++ | clasificados de acuerdo a las caracteristicas que comparten. La clasificacion mas generalizada que existe /n
+++++ | es la de los reinos. Existen cinco reinos: Monera, Protista, Fungi, Vegetal y Animal. /n
+++++ | A continuacion abordaremos los reinos Vegetal y Animal: /n ++++ /n
+++++ | * Reino Vegetal: /n ++++ /n
+++++ | Los organimos que pertenecen a este reino son aquellos que estan compuestos por mas de una celula, es decir, /n
+++++ | son pluricelulares y son los que conocemos como plantas. Estos seres poseen una capacidad que les permite ser /n
+++++ | autotrofos (obtener alimento por si mismos sin tener que consumir otros seres o productos), mediante un pro- /n
+++++ | ceso conocido como fotosintesis. /n ++++ /n
+++++ | -> La fotosintesis: Es un proceso quimico que se da en las plantas con clorofila y que permite gracias a la /n
+++++ | energia de la luz solar formar sustancias que actuan como nutrientes para los organismos. Este proceso es muy /n
+++++ | importante puesto que las plantas obtienen el dioxido de carbono del entorno (el dioxido de carbono se produce,
+++++ | por ejemplo, cuando los seres humanos respiramos) y producen como resultado otras sustancias, entre ellas el /n
+++++ | oxigeno, fundamental para los seres vivos aerobios (que requieren del oxigeno para vivir). /n ++++ /n
+++++ | Otras caracteristicas de los organimos pertenecientes al reino vegetal son: /n ++++ /n
+++++ | - Son seres aerobicos. /n ++++ /n
+++++ | - Son inmoviles, es decir, no pueden moverse por voluntad propia, pero pueden darse estimulos externos, /n
+++++ | como el caso de las plantas que poseen la capacidad de fototropismo (se mueven y crecen con direccion a la /n
+++++ | luz solar) /w /n ++++ /n
+++++ | - En su mayoria requieren un habitat determinado para desarrollarse. /n ++++ /n
+++++ | - Pueden tener tanto reproduccion sexual como asexual. /n ++++ /n
+++++ | * Reino Animal: /n ++++ /n
+++++ | Los organismos que pertenecen a este reino (entre estos los seres humanos) son pluricelulares y hetero- /n
+++++ | trofos, es decir, que necesitan alimentarse de otros seres que les proporcionen los nutrientes necesarios /n
+++++ | para subsistir y ademas, son seres aerobicos. Pueden clasificarse segun diversos criterios. /n ++++ /n 
+++++ | Segun su estructura: /n ++++ /n
+++++ | - Vertebrados: Tienen huesos y columna vertebral. /n ++++ /n
+++++ | - Invertebrados: No tienen columna vertebral pero pueden tener un esqueleto no tan flexible como el de /n
+++++ | los vertebrados. /n ++++ /n
+++++ | Segun la forma en que se alimentan: /n ++++ /n
+++++ | - Herviboros: Se alimentan principalmente de plantas. /n
+++++ | - Carnivoros: Se alimentan principalmente de otros animales. /n
+++++ | - Omnivoros: Se alimentan tanto de plantas como de otros animales. /n ++++ /n
+++++ | Segun la forma en que nacen pueden ser: /n ++++ /n
+++++ | - Oviparos: Nacen de huevos. /n
+++++ | - Viviparos: Nacen directamente del vientre de la madre. /n
+++++ | - Ovoviviparos: Los huevos permanecen dentro de la hembra hasta su nacimiento. /w /n
+++++ | Segun la forma en que respiran puede ser: /n ++++ /n
+++++ | - Pulmonar: Respiran mediante sus pulmones, como los humanos. /n
+++++ | - Cutanea: El aire entra por la piel la cual absorbe unicamente el oxigeno. Los anfibios tienen /n
+++++ | este tipo de respiracion. /n
+++++ | - Respiracion branquial: Mediante branquias, las cuales son organos compuestos por un tipo de laminillas /n
+++++ | que cuando pasa el agua por ellas absorben el oxigeno. Los peces son el mas claro ejemplo de este tipo de /n
+++++ | respiracion. /n
+++++ | - Respiracion traquial: Mediante conductos respiratorios conocidos como traqueas, que son organos en forma /n
+++++ | de tubo que se encuentran a lo largo del cuerpo del animal, entre los que la realizan estan los insectos. /n ++++ /n
+++++ | Los animales pueden reproducirse y su reproduccion puede ser: /n ++++ /n
+++++ | - Sexualmente: Mediante gametos (ovulos y espermatozoides), que al unirse forman un cigoto a partir del /n
+++++ | cual se desarrolla un nuevo ser. Es la forma mas comun de reproduccion en los animales. /n
+++++ | - Asexualmente: Se lleva a cabo mediante un solo progenitor y sin celulas sexuales o gametos. Por /n 
+++++ | ejemplo, una celula de un animal se puede reproducir por biparticion, es decir, dividiendose en dos. /n
+++++ | Por lo general, una celula, llamada 'celula madre', se divide dando lugar a dos o mas celulas /n
+++++ | llamadas 'celulas hijas', con la misma informacion genetica de la celula madre. Este tipo de /n
+++++ | reproduccion lo tienen los animales mas simples como la esponja, la estrella de mar o la lombriz /n
+++++ | de tierra. /n ++++ /n

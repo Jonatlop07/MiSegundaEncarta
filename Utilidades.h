@@ -12,7 +12,7 @@ string leerPalabra ( istream& ) ;
 void escribirLeccion ( ifstream & );
 void realizarExamen ( const string preguntas[], const string opciones [][3], const char respuestas[], int );
 ostream& guardarPuntaje ( ostream&, string );
-void verificarCurso( int, int );
+void verificarTema( int, int );
 
 #endif
 

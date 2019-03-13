@@ -18,14 +18,13 @@
 ++++ | infinitos puntos en ambas dimensiones. /n ++++ /n
 ++++ | * Poligono: /n 
 ++++ | Un poligono es la union de tres o mas segmentos de recta en sus puntos extremos. Si has visto un triangulo /n
-++++ | entiendes de que estoy hablando. Un poligono posee varias partes, entre las cuales estan: /n ++++ /n
+++++ | entiendes de que estoy hablando. Un poligono posee varias partes, entre las cuales estan: /w /n ++++ /n
 ++++ | -> Lados: Son los segmentos de recta que lo componen. De acuerdo al numero de lados que tenga se clasifica /n
 ++++ | en un grupo. /n
 ++++ | -> Vertices: Son los puntos en donde se unen los segmentos de recta. /n
 ++++ | -> Diagonales: Son segmentos que se obtienen al unir dos puntos no consecutivos de un poligono. /n
 ++++ | -> Angulos: Es la parte del plano determinada por dos lados que tienen el mismo punto de origen. Por el /n
-++++ | momento no /n
-++++ | profundizaremos este concepto. /n ++++ /n
+++++ | momento no profundizaremos este concepto. /n ++++ /n
 ++++ | * Clasificacion de los poligonos: Los poligonos pueden clasificarse segun la medida de sus lados y segun /n
 ++++ | su numero de lados: /n ++++ /n
 ++++ | -> Segun la medida de sus lados: /n ++++ /n
@@ -40,16 +39,22 @@
 ++++ | | __ __ _____ /n
 ++++ | | '| __ __ __ __ |' /n
 ++++ | | '| __ __ __ __ |' /n
-++++ | | '|_____|' /n ++++ /n
+++++ | | '|_____|' /w /n ++++ /n
 ++++ | - Pentagono: Poligono de 5 lados. /n ++++ /n
-++++ | __ __ __ ^ /n
-++++ | __ __ / __ \ /n
-++++ | __ / __ __ __ \ /n
-++++ | __ \ __ __ __ / /n
-++++ | __ __ \__/ /n ++++ /n
+++++ | | __ __ /\ /n
+++++ | | __ / __ \ /n
+++++ | | __ \__/ /n ++++ /n
 ++++ | - Hexagono : Poligono de 6 lados. /n ++++ /n
-++++ | __ ____ /n
-++++ | __ / __ __ __ \ /n
-++++ | '| __ __ __ |' /n
-++++ | __ \____/ /n ++++ /n
-Referencias http://quiz.uprm.edu/tutorials_master/geometria_part1/geometria_part1_home.html
+++++ | | __ __ __ ____ /n
+++++ | | __ __ / __ __ __ \ /n
+++++ | | '| __ __ __ __ __ |' /n
+++++ | | __ __ \____/ /n ++++ /n
+++++ | Y asi sucesivamente. /n ++++ /n
+++++ | * Perimetro de un poligono: /n ++++ /n
+++++ | El perimetro de un poligono es la suma de la medida de los lados que lo componen. Por ejemplo, si /n
+++++ | Tengo un cuadrado cuyos lados miden 3 centimetros y se que un cuadrado posee 4 lados, entonces /n
+++++ | su perimetro (P) es: P = l + l + l + l, siendo l la medida de un lado, lo que equivale a P = 4 x l /n
+++++ | y sabiendo la medida de los lados se reemplaza en la operacion: P = 4 x 3 = 12 centimetros. /n
+++++ | Entonces, tenemos que la formula para hallar el perimetro de un poligono regular es: /n ++++ /n
+++++ | | Perimetro = numero de lados x medida de los lados /n ++++ /n
+++++ | Referencias: http://quiz.uprm.edu/tutorials_master/geometria_part1/geometria_part1_home.html /n ++++ /n

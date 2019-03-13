@@ -19,7 +19,7 @@ void escribirLeccion ( ifstream& flujoEntrada) {
         } else if ( palabra == "__" ) {
             cout << ' ';
         } else if ( palabra == "/w" ) {
-            Sleep( 20000 );
+            Sleep( 15000 );
         } else {
             cout << palabra << " ";
         }
@@ -32,102 +32,100 @@ ostream& guardarPuntaje( ostream& os, string enunciadoPuntaje ) {
     return os;
 }
 
-void verificarCurso ( int n_curso, int resp_correct ) {
+void verificarTema ( int n_tema, int resp_correct ) {
     ofstream archivoPuntaje ( "puntaje.txt", fstream::app );
-    string cursoPuntaje;
+    string puntajeTema;
     stringstream ss;
     ss << resp_correct;
 
-    switch ( n_curso ) {
+    switch ( n_tema ) {
         case (1):
-            cursoPuntaje = "Test de conjuntos: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema += ss.str() + " puntos";
+            puntajeTema = "Test de conjuntos: ";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (2):
-            cursoPuntaje = "Test de aritmetica: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de aritmetica: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (3):
-            cursoPuntaje = "Test de geometria: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de geometria: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (4):
-            cursoPuntaje = "Test de prehistoria: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de prehistoria: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (5):
-            cursoPuntaje = "Test de edad antigua: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de edad antigua: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (6):
-            cursoPuntaje = "Test de edad media: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de edad media: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (7):
-            cursoPuntaje = "Test de renacimiento: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de renacimiento: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (8):
-            cursoPuntaje = "Test de edad moderna: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de edad moderna: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (9):
-            cursoPuntaje = "Test de edad contemporanea: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test del universo: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (10):
-            cursoPuntaje = "Test del universo: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de reinos: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (11):
-            cursoPuntaje = "Test de reinos: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de la celula: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (12):
-            cursoPuntaje = "Test de la celula: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de vocabulario: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (13):
-            cursoPuntaje = "Test de vocabulario: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de expresiones basicas: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
             break;
         case (14):
-            cursoPuntaje = "Test de expresiones basicas: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
-            break;
-        case (15):
-            cursoPuntaje = "Test de pronombres y verbo to be: ";
-            cursoPuntaje += ss.str() + " puntos";
-            guardarPuntaje( archivoPuntaje, cursoPuntaje );
+            puntajeTema = "Test de pronombres y verbo to be: ";
+            puntajeTema += ss.str() + " puntos";
+            guardarPuntaje( archivoPuntaje, puntajeTema );
     }
 }
 
-void realizarExamen ( const string preguntas[], const string opciones [][3], const char respuestas[], int curso ) {
+void realizarExamen ( const string preguntas[], const string opciones [][3], const char respuestas[], int tema ) {
+    system( "color f0" );
     char eleccion;
     int respuestas_correctas = 0;
     bool valor_incorrecto = false;
 
     for ( int i = 0; i < 5; i++ ) {
-        cout << preguntas[ i ] << endl;
+        cout << "\n\n\t\t" << preguntas[ i ] << endl;
+        cout << "\n";
 
         for ( int j = 0; j < 3; j++ )
-            cout << opciones[ i ][ j ] << endl;
+            cout << "\t\t" << opciones[ i ][ j ] << endl;
 
         do {
+            cout << "\t\t";
             cin >> eleccion;
             valor_incorrecto = tolower( eleccion ) != 'a' && tolower( eleccion ) != 'b' && tolower( eleccion ) != 'c';
 
@@ -149,8 +147,8 @@ void realizarExamen ( const string preguntas[], const string opciones [][3], con
 
         system( "cls" );
     }
-    cout << "Tu resultado es: " << respuestas_correctas << "/5" << endl;
-    verificarCurso( curso, respuestas_correctas );
+    cout << "\n\n\t\tTu resultado es: " << respuestas_correctas << "/5" << endl;
+    verificarTema( tema, respuestas_correctas );
 }
 
 
