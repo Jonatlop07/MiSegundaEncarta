@@ -26,7 +26,7 @@
 
 1550158172 c:\users\estudiante\documents\proyectos codeblocks\misegundaencarta\temashistoria.h
 
-1552178942 source:c:\users\jonathan lópez\documents\github\misegundaencarta\main.cpp
+1552339707 source:c:\users\jonathan lópez\documents\github\misegundaencarta\main.cpp
 	<iostream>
 	<string.h>
 	<fstream>
@@ -46,7 +46,7 @@
 	<fstream>
 	<cstdlib>
 
-1552146703 source:c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.cpp
+1552339671 source:c:\users\jonathan lópez\documents\github\misegundaencarta\cursos.cpp
 	"Cursos.h"
 	"TemasMatematicas.h"
 	"TemasHistoria.h"
@@ -73,7 +73,7 @@
 	<fstream>
 	<cstdlib>
 
-1552178497 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasingles.cpp
+1552443689 source:c:\users\jonathan lópez\documents\github\misegundaencarta\temasingles.cpp
 	"TemasIngles.h"
 	"Utilidades.h"
 

@@ -43,7 +43,6 @@ int main() {
         cout << "***************************                                                            ********************   **********" << endl;
         cout << "****************************                                                          **********************************" << endl;
         cout << "************************************************************************************************************************" << endl;
-        cout << "************************************************************************************************************************" << endl;
         int i = 0;
         do {
             Sleep( 20 );
@@ -79,9 +78,9 @@ int main() {
         } while (i < 5);
         Sleep( 4000 );
         system ( "cls" );
+        system( "color 1f" );
     }
 
-    system( "color 1f" );
     cout << "Bienvenido a Mi Segunda Encarta, una aplicacion interactiva gratuita para estudiantes de todas las edades. \n";
     do {
         system( "cls" );

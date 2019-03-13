@@ -3,7 +3,6 @@
 #include "TemasHistoria.h"
 #include "TemasCiencias.h"
 #include "TemasIngles.h"
-
 int elegirCurso () {
     int opcion = 0;
     bool valor_incorrecto = false;

@@ -21,19 +21,19 @@ void Vocabulario() {
     if ( eleccion == 1 ) {
         system( "cls" );
 
-        const string preguntas[5] = { "1.",
-                                "2.",
-                                "3.",
-                                "4.",
-                                "5." };
+        const string preguntas[5] = { "1. What does How mean?",
+                                "2. What does Please mean?",
+                                "3. What does Because mean?",
+                                "4. What does Think mean?",
+                                "5. What does Flight mean?" };
 
-        const string opciones[5][3] = { { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." } };
+        const string opciones[5][3] = { { "A. Como", "B. Minuto", "C. Cual" },
+                                  { "A. Referencia", "B. Vista", "C. Por favor" },
+                                  { "A. Porque", "B. Causa", "C. Ser" },
+                                  { "A. Vivir", "B. Pensar", "C. Salida" },
+                                  { "A. Pelea", "B. Vuelo", "C. Gustar" } };
 
-        const char respuestas[ ] = { 'a','b','c','c','a' };
+        const char respuestas[ ] = { 'a','c','a','b','b' };
 
         realizarExamen( preguntas, opciones, respuestas, 13 );
     }
@@ -61,19 +61,19 @@ void Expresiones_Basicas() {
     if ( eleccion == 1 ) {
         system( "cls" );
 
-        const string preguntas[5] = { "1.",
-                                "2.",
-                                "3.",
-                                "4.",
-                                "5." };
+        const string preguntas[5] = { "1. What time is it?",
+                                "2. Where is the laundry?",
+                                "3. Where are you from?",
+                                "4. Do you speak English?",
+                                "5. What does arroz mean?" };
 
-        const string opciones[5][3] = { { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." } };
+        const string opciones[5][3] = { { "A. I am too tired", "B. Not at all", "C. It is three O' clock" },
+                                  { "\nA. Afternoon and evening", "B. It is near to my house", "C. It is very good" },
+                                  { "\nA. I am from Colombia", "B. It is the same place", "C. It was not very difficult" },
+                                  { "\nA. Yes, I do", "B. I will just check for you", "C. I will tell him you called" },
+                                  { "\nA. It is in the garden", "B. In a minute", "C. Arroz mean rice" } };
 
-        const char respuestas[ ] = { 'a','b','c','c','a' };
+        const char respuestas[ ] = { 'c','b','a','a','c' };
 
         realizarExamen( preguntas, opciones, respuestas, 14 );
     }
@@ -102,19 +102,19 @@ void Pronombres_Verbos() {
     if ( eleccion == 1 ) {
         system( "cls" );
 
-        const string preguntas[5] = { "1.",
-                                "2.",
-                                "3.",
-                                "4.",
-                                "5." };
+        const string preguntas[5] = { "1. Where are the police officers?",
+                                "2. I __________ in a bank.",
+                                "3. Michael __________ a new car.",
+                                "4. Is he Brazilian?",
+                                "5. Are you happy?" };
 
-        const string opciones[5][3] = { { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." },
-                                  { "A.", "B.", "C." } };
+        const string opciones[5][3] = { { "A. They are at the police station", "B. He was at the hospital", "C. She is ten years old" },
+                                  { "A. is working", "B. working", "C. work" },
+                                  { "A. is wanting", "B. are wanting", "C. wants" },
+                                  { "A. Yes, he is", "B. No, she isn't", "C. Yes, he aren't" },
+                                  { "A. Yes, I are", "B. No, I am not", "C. I'm so sad" } };
 
-        const char respuestas[ ] = { 'a','b','c','c','a' };
+        const char respuestas[ ] = { 'a','c','c','a','b' };
 
         realizarExamen( preguntas, opciones, respuestas, 15 );
     }
