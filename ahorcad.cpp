@@ -22,8 +22,6 @@ int jugarAhorcado() {
         cin >> nivel;
     } while( nivel < 1 || nivel > 5 );
 
-    int op;
-
     palabra_aleatoria = rand() % 5;
 
     if( nivel == 1 ) {
