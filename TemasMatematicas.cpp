@@ -13,7 +13,7 @@ void Conjuntos () {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -51,7 +51,7 @@ void Aritmetica() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -94,7 +94,7 @@ void Geometria () {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;

@@ -13,7 +13,7 @@ void SistemaSolar() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -53,7 +53,7 @@ void Reinos(){
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -94,7 +94,7 @@ void Celula(){
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;

@@ -6,6 +6,7 @@
 using namespace std;
 
 #include "Cursos.h"
+#include "ahorcad.h"
 
 int main() {
     int opcion_programa;
@@ -102,13 +103,16 @@ int main() {
             case(4):
                 cursoIngles();
         }
-        cout << "Deseas explorar otros cursos?\n1. Si\n2. No" << endl;
+        cout << "Que deseas?:\n1. Explorar otros cursos. \n2. Jugar al ahorcado \n3. Salir" << endl;
         do {
             cin >> opcion_programa;
-            if ( opcion_programa != 1 && opcion_programa != 2 ) {
+            if ( opcion_programa == 2 )
+                opcion_programa = jugarAhorcado();
+
+            if ( opcion_programa != 1 && opcion_programa != 2 && opcion_programa != 3 ) {
                 cout << "Valor incorrecto. Intentalo de nuevo:" << endl;
             }
-        } while ( opcion_programa != 1 && opcion_programa != 2 );
+        } while ( opcion_programa != 1 && opcion_programa != 2 && opcion_programa != 3);
 
     } while ( opcion_programa == 1 );
 

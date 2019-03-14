@@ -13,7 +13,7 @@ void Prehistoria() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -58,7 +58,7 @@ void Edad_Antigua() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -100,7 +100,7 @@ void Edad_Media() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -143,7 +143,7 @@ void Renacimiento() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;
@@ -190,7 +190,7 @@ void Edad_Moderna() {
     int eleccion;
     cout << "++++    Deseas realizar un test para demostrar lo que aprendiste?\n++++    1. Si\n++++    2. No\n";
     do {
-        cout << "\t\t";
+        cout << "\t";
         cin >> eleccion;
         if ( eleccion != 1 && eleccion != 2 )
             cout << "Valor incorrecto. Intentalo de nuevo: " << endl;

@@ -150,5 +150,3 @@ void realizarExamen ( const string preguntas[], const string opciones [][3], con
     cout << "\n\n\t\tTu resultado es: " << respuestas_correctas << "/5" << endl;
     verificarTema( tema, respuestas_correctas );
 }
-
-
